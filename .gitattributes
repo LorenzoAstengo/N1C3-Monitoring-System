@@ -1,1 +1,2 @@
-lib/NewLiquidCrystal_lib/* linguist-vendored
+* linguist-vendored
+*.cpp linguist-vendored=false
